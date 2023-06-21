@@ -14,3 +14,4 @@ function findStrangeValue() {
    
      console.log(x===x);
    
+// add a comment
